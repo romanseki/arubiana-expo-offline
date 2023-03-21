@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "87419452-6da5-4f1b-b0ac-d3668ef8407a"
+      }
+    },
+    "owner": "yomko707"
   }
 }
